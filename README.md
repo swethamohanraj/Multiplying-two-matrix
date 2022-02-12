@@ -26,6 +26,7 @@ array_1=np.array(l1)
 array_2=np.array(l2)
 product=array_1*array_2
 print('Product of two arrays is:', product)
+
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/94228215/153697311-4ce75470-8363-4d01-90d1-5b460558b949.png)
 
