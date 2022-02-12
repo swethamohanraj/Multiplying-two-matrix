@@ -16,7 +16,7 @@ Use for loop to append the values into the list created.
 Print the product of two arrays.
 ## PROGRAM: 
 import numpy as np
-l1, l2=[],[]
+l1,l2=[],[]
 n=int(input())
 for I in range(n):
     l1. append(int(input()))
