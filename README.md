@@ -18,10 +18,15 @@ Print the product of two arrays.
 '''
 import numpy as np
 l1, l2=[],[]
+
 n=int(input())
+
 for I in range(n):
+
     l1. append(int(input()))
+    
 for j in range(n):
+
     l2. append(int(input()))
 array_1=np.array(l1)
 array_2=np.array(l2)
